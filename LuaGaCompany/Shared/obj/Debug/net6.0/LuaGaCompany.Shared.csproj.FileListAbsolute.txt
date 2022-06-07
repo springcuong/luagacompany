@@ -1,0 +1,12 @@
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\bin\Debug\net6.0\LuaGaCompany.Shared.deps.json
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\bin\Debug\net6.0\LuaGaCompany.Shared.dll
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\bin\Debug\net6.0\LuaGaCompany.Shared.pdb
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\obj\Debug\net6.0\LuaGaCompany.Shared.csproj.AssemblyReference.cache
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\obj\Debug\net6.0\LuaGaCompany.Shared.GeneratedMSBuildEditorConfig.editorconfig
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\obj\Debug\net6.0\LuaGaCompany.Shared.AssemblyInfoInputs.cache
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\obj\Debug\net6.0\LuaGaCompany.Shared.AssemblyInfo.cs
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\obj\Debug\net6.0\LuaGaCompany.Shared.csproj.CoreCompileInputs.cache
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\obj\Debug\net6.0\LuaGaCompany.Shared.dll
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\obj\Debug\net6.0\refint\LuaGaCompany.Shared.dll
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\obj\Debug\net6.0\LuaGaCompany.Shared.pdb
+D:\BaiTapNhom\LuaGaCompany\LuaGaCompany\Shared\obj\Debug\net6.0\ref\LuaGaCompany.Shared.dll

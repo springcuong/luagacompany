@@ -1,0 +1,53 @@
+﻿@page "/"
+
+@using Syncfusion.Blazor.Navigations
+
+<h1 style="text-align:center">Đội ngũ lùa gà chuyên nghiệp nhất Việt Nam</h1>
+<div class="control-container">
+    <SfCarousel>
+        <CarouselItem>
+            <figure class="img-container">
+                <img src="images/carousel/1.png" alt="Golden Gate Bridge, San Francisco" style="height:100%;width:100%;" />
+            </figure>
+        </CarouselItem>
+        <CarouselItem>
+            <figure class="img-container">
+                <img src="images/carousel/2.png" alt="Spring Flower Trees" style="height:100%;width:100%;" />
+            </figure>
+        </CarouselItem>
+        <CarouselItem>
+            <figure class="img-container">
+                <img src="images/carousel/3.png" alt="Oddadalen Waterfalls, Norway" style="height:100%;width:100%;" />
+            </figure>
+        </CarouselItem>
+        <CarouselItem>
+            <figure class="img-container">
+                <img src="images/carousel/4.png" alt="Anse Source d'Argent, Seychelles" style="height:100%;width:100%;" />
+            </figure>
+        </CarouselItem>
+    </SfCarousel>
+</div>
+
+<style>
+    .control-container {
+        background-color: #e5e5e5;
+        height: 100%;
+        margin: 0 auto;
+        width: 100%;
+    }
+
+    .e-carousel .e-carousel-items .e-carousel-item .img-container {
+        height: 100%;
+    }
+
+    .e-carousel .e-carousel-items .e-carousel-item .img-caption {
+        bottom: 4em;
+        color: #fff;
+        font-size: 12pt;
+        height: 2em;
+        position: relative;
+        padding: 0.3em 1em;
+        text-align: center;
+        width: 100%;
+    }
+</style>
